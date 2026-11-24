@@ -7,6 +7,18 @@ from bs4 import BeautifulSoup
 import requests
 
 CHANNELS = {
+    "SIDHARTH.GOLD.in": {
+        "name": "SIDHARTH GOLD",
+        "url": "https://www.epgschedule.com/channel/sidharth-gold/",
+    },
+    "SIDHARTH.UTSAV.in": {
+        "name": "SIDHARTH UTSAV",
+        "url": "https://www.epgschedule.com/channel/sidharth-utsav/",
+    },
+    "SONY.MAX.HD.in": {
+        "name": "SONY MAX HD",
+        "url": "https://www.epgschedule.com/channel/sidharth-utsav/",
+    },
     "sony.vizha.hd": {
         "name": "SONY Vizha HD",
         "url": "https://www.epgschedule.com/channel/sony-vizha-hd/",
