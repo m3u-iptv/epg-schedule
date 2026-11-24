@@ -17,7 +17,7 @@ CHANNELS = {
     },
     "SONY.MAX.HD.in": {
         "name": "SONY MAX HD",
-        "url": "https://www.epgschedule.com/channel/sidharth-utsav/",
+        "url": "https://www.epgschedule.com/channel/sony-max-hd/",
     },
     "sony.vizha.hd": {
         "name": "SONY Vizha HD",
