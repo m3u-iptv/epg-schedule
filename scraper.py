@@ -15,6 +15,18 @@ CHANNELS = {
         "name": "SONY Vizha",
         "url": "https://www.epgschedule.com/channel/sony-vizha/",
     },
+    "sony.wah": {
+        "name": "SONY WAH",
+        "url": "https://www.epgschedule.com/channel/sony-wah/",
+    },
+    "star.gold.2.hd": {
+        "name": "STAR GOLD 2 HD",
+        "url": "https://www.epgschedule.com/channel/star-gold-2-hd/",
+    },
+    "star.pravah.pictures.hd": {
+        "name": "STAR PRAVAH PICTURES HD",
+        "url": "https://www.epgschedule.com/channel/star-pravah-pictures-hd/",
+    },
     "star.utsav.movies": {
         "name": "STAR UTSAV MOVIES",
         "url": "https://www.epgschedule.com/channel/star-utsav-movies/",
