@@ -7,6 +7,14 @@ from bs4 import BeautifulSoup
 import requests
 
 CHANNELS = {
+    "Goldmines.in": {
+        "name": "Goldmines",
+        "url": "https://www.epgschedule.com/channel/goldmines/",
+    },
+    "Goldmines.Movies.in": {
+        "name": "Goldmines Movies",
+        "url": "https://www.epgschedule.com/channel/goldmines-movies/",
+    },
     "SIDHARTH.GOLD.in": {
         "name": "SIDHARTH GOLD",
         "url": "https://www.epgschedule.com/channel/sidharth-gold/",
