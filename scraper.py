@@ -15,6 +15,30 @@ CHANNELS = {
         "name": "SIDHARTH UTSAV",
         "url": "https://www.epgschedule.com/channel/sidharth-utsav/",
     },
+    "SONY.AATH.in": {
+        "name": "SONY AATH",
+        "url": "https://www.epgschedule.com/channel/sony-aath/",
+    },
+    "SONY.BBC.EARTH.HD.in": {
+        "name": "SONY BBC EARTH HD",
+        "url": "https://www.epgschedule.com/channel/sony-bbc-earth-hd/",
+    },
+    "SONY.BBC.EARTH.in": {
+        "name": "SONY BBC EARTH",
+        "url": "https://www.epgschedule.com/channel/sony-bbc-earth/",
+    },
+    "SET.HD": {
+        "name": "SET HD",
+        "url": "https://www.epgschedule.com/channel/set-hd/",
+    },
+    "SET.in": {
+        "name": "SET",
+        "url": "https://www.epgschedule.com/channel/set/",
+    },
+    "Sony.Marathi.in": {
+        "name": "SONY MARATHI",
+        "url": "https://www.epgschedule.com/channel/sony-marathi/",
+    },
     "SONY.MAX.1": {
         "name": "SONY MAX 1",
         "url": "https://www.epgschedule.com/channel/sony-max-1/",
@@ -31,6 +55,10 @@ CHANNELS = {
         "name": "SONY MAX",
         "url": "https://www.epgschedule.com/channel/sony-max/",
     },
+    "SONY.PAL.in": {
+        "name": "Sony Pal",
+        "url": "https://www.epgschedule.com/channel/sony-pal/",
+    },
     "SONY.PIX.HD": {
         "name": "SONY PIX HD",
         "url": "https://www.epgschedule.com/channel/sony-pix-hd/",
@@ -38,6 +66,22 @@ CHANNELS = {
     "SONY.PIX.in": {
         "name": "SONY PIX",
         "url": "https://www.epgschedule.com/channel/sony-pix/",
+    },
+    "SAB.HD.in": {
+        "name": "SAB HD",
+        "url": "https://www.epgschedule.com/channel/sony-sab-hd/",
+    },
+    "SONY.SAB.in": {
+        "name": "SONY SAB",
+        "url": "https://www.epgschedule.com/channel/sony-sab/",
+    },
+    "SONY.SPORTS.1.HD.in": {
+        "name": "SONY SPORTS 1 HD",
+        "url": "https://www.epgschedule.com/channel/sony-sports-ten-1-hd/",
+    },
+    "SONY.SPORTS.1": {
+        "name": "SONY SPORTS 1",
+        "url": "https://www.epgschedule.com/channel/sony-sports-ten-1-hd/",
     },
     "SONY.VIZHA.HD.in": {
         "name": "SONY VIZHA HD",
