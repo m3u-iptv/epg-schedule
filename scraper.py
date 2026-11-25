@@ -39,7 +39,7 @@ CHANNELS = {
         "name": "SONY MARATHI",
         "url": "https://www.epgschedule.com/channel/sony-marathi/",
     },
-    "SONY.MAX.1": {
+    "max.max.1": {
         "name": "SONY MAX 1",
         "url": "https://www.epgschedule.com/channel/sony-max-1/",
     },
@@ -51,7 +51,7 @@ CHANNELS = {
         "name": "SONY MAX HD",
         "url": "https://www.epgschedule.com/channel/sony-max-hd/",
     },
-    "sony.max.in": {
+    "sony.max": {
         "name": "SONY MAX",
         "url": "https://www.epgschedule.com/channel/sony-max/",
     },
