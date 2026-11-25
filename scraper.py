@@ -15,27 +15,47 @@ CHANNELS = {
         "name": "SIDHARTH UTSAV",
         "url": "https://www.epgschedule.com/channel/sidharth-utsav/",
     },
+    "SONY.MAX.1": {
+        "name": "SONY MAX 1",
+        "url": "https://www.epgschedule.com/channel/sony-max-1/",
+    },
+    "SONY.MAX.2": {
+        "name": "SONY MAX 2",
+        "url": "https://www.epgschedule.com/channel/sony-max-2/",
+    },
     "SONY.MAX.HD.in": {
         "name": "SONY MAX HD",
         "url": "https://www.epgschedule.com/channel/sony-max-hd/",
     },
-    "sony.vizha.hd": {
-        "name": "SONY Vizha HD",
+    "SONY.MAX.in": {
+        "name": "SONY MAX",
+        "url": "https://www.epgschedule.com/channel/sony-max/",
+    },
+    "SONY.PIX.HD": {
+        "name": "SONY PIX HD",
+        "url": "https://www.epgschedule.com/channel/sony-pix-hd/",
+    },
+    "SONY.PIX.in": {
+        "name": "SONY PIX",
+        "url": "https://www.epgschedule.com/channel/sony-pix/",
+    },
+    "SONY.VIZHA.HD.in": {
+        "name": "SONY VIZHA HD",
         "url": "https://www.epgschedule.com/channel/sony-vizha-hd/",
     },
-    "sony.vizha": {
-        "name": "SONY Vizha",
+    "SONY.VIZHA.in": {
+        "name": "SONY VIZHA",
         "url": "https://www.epgschedule.com/channel/sony-vizha/",
     },
-    "sony.wah": {
+    "SONY.WAH.in": {
         "name": "SONY WAH",
         "url": "https://www.epgschedule.com/channel/sony-wah/",
     },
-    "star.pravah.pictures.hd": {
+    "STAR.PRAVAH.PICTURES.HD.in": {
         "name": "STAR PRAVAH PICTURES HD",
         "url": "https://www.epgschedule.com/channel/star-pravah-pictures-hd/",
     },
-    "star.utsav.movies": {
+    "STAR.UTSAV.MOVIES.in": {
         "name": "STAR UTSAV MOVIES",
         "url": "https://www.epgschedule.com/channel/star-utsav-movies/",
     },
