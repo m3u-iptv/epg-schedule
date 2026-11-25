@@ -1,4 +1,4 @@
-# epg-schedule URL (Electric Program Guide)
+# EPG-Schedule URL (Electric Program Guide)
 
 ```
 https://raw.githubusercontent.com/m3u-iptv/epg-schedule/main/epg.xml.gz
