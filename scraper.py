@@ -15,11 +15,11 @@ CHANNELS = {
         "name": "SIDHARTH UTSAV",
         "url": "https://www.epgschedule.com/channel/sidharth-utsav/",
     },
-    "SONY.MAX.1": {
+    "sony.max.1": {
         "name": "SONY MAX 1",
         "url": "https://www.epgschedule.com/channel/sony-max-1/",
     },
-    "SONY.MAX.2": {
+    "sony.max.2": {
         "name": "SONY MAX 2",
         "url": "https://www.epgschedule.com/channel/sony-max-2/",
     },
