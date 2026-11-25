@@ -67,6 +67,10 @@ CHANNELS = {
         "name": "STAR UTSAV MOVIES",
         "url": "https://www.epgschedule.com/channel/star-utsav-movies/",
     },
+    "TV13.GUJARATI.in": {
+        "name": "TV13 GUJARATI",
+        "url": "https://www.epgschedule.com/channel/tv13-gujarati/",
+    },
     "ZEE.KANNADA.NEWS.in": {
         "name": "ZEE KANNADA NEWS",
         "url": "https://www.epgschedule.com/channel/zee-kannada-news/",
