@@ -27,7 +27,7 @@ CHANNELS = {
         "name": "SONY Vizha",
         "url": "https://www.epgschedule.com/channel/sony-vizha/",
     },
-    "SONY.WAH.in": {
+    "sony.wah": {
         "name": "SONY WAH",
         "url": "https://www.epgschedule.com/channel/sony-wah/",
     },
