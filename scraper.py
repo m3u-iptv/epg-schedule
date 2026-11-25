@@ -51,8 +51,8 @@ CHANNELS = {
         "name": "SONY MAX HD",
         "url": "https://www.epgschedule.com/channel/sony-max-hd/",
     },
-    "SONY.MAX.SD.in": {
-        "name": "SONY MAX SD",
+    "Sony.Max.in": {
+        "name": "SONY MAX",
         "url": "https://www.epgschedule.com/channel/sony-max/",
     },
     "SONY.PAL.in": {
