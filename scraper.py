@@ -67,6 +67,10 @@ CHANNELS = {
         "name": "STAR UTSAV MOVIES",
         "url": "https://www.epgschedule.com/channel/star-utsav-movies/",
     },
+    "ZEE.ZEST.HD.in": {
+        "name": "ZEE ZEST HD",
+        "url": "https://www.epgschedule.com/channel/zee-zest-hd/",
+    },
 }
 
 IST = timezone(timedelta(hours=5, minutes=30))
