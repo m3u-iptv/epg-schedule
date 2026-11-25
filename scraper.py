@@ -55,6 +55,10 @@ CHANNELS = {
         "name": "SONY WAH",
         "url": "https://www.epgschedule.com/channel/sony-wah/",
     },
+    "STAR.GOLD.SELECT.in": {
+        "name": "STAR GOLD SELECT",
+        "url": "https://www.epgschedule.com/channel/star-gold-select/",
+    },
     "STAR.PRAVAH.PICTURES.HD.in": {
         "name": "STAR PRAVAH PICTURES HD",
         "url": "https://www.epgschedule.com/channel/star-pravah-pictures-hd/",
