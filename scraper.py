@@ -67,6 +67,10 @@ CHANNELS = {
         "name": "STAR UTSAV MOVIES",
         "url": "https://www.epgschedule.com/channel/star-utsav-movies/",
     },
+    "ZEE.KANNADA.NEWS.in": {
+        "name": "ZEE KANNADA NEWS",
+        "url": "https://www.epgschedule.com/channel/zee-kannada-news/",
+    },
     "ZEE.ZEST.HD.in": {
         "name": "ZEE ZEST HD",
         "url": "https://www.epgschedule.com/channel/zee-zest-hd/",
